@@ -1,0 +1,3 @@
+Step 1: SETUP - done
+Step 2: Dynamic MCMC - done
+Step 3: Static MCMC - started
